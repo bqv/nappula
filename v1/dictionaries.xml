@@ -1,0 +1,470 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <!-- Dictionaries are built and hosted at
+       https://github.com/Julow/Unexpected-Keyboard-dictionaries
+       Checksums are reproducible.
+       The ja, ko and zh dictionaries are added by this fork and served from this branch. -->
+  <string name="dict_name_af">Afrikaans</string>
+  <string name="dict_name_ar">العربية</string>
+  <string name="dict_name_as">অসমীয়া</string>
+  <string name="dict_name_az">Azərbaycan</string>
+  <string name="dict_name_be">Беларуская</string>
+  <string name="dict_name_bg">Български</string>
+  <string name="dict_name_bn">বাংলা</string>
+  <string name="dict_name_bs">Bosanski</string>
+  <string name="dict_name_ca">Català</string>
+  <string name="dict_name_ceb">Cebuano</string>
+  <string name="dict_name_cs">Čeština</string>
+  <string name="dict_name_da">Dansk</string>
+  <string name="dict_name_de">Deutsch</string>
+  <string name="dict_name_de_at">Deutsch (Österreich)</string>
+  <string name="dict_name_de_ch">Deutsch (Schweiz)</string>
+  <string name="dict_name_el">Ελληνικά</string>
+  <string name="dict_name_en_au">English (Australia)</string>
+  <string name="dict_name_en_ca">English (Canada)</string>
+  <string name="dict_name_en_gb">English (United Kingdom)</string>
+  <string name="dict_name_en_us">English (United States)</string>
+  <string name="dict_name_eo">Esperanto</string>
+  <string name="dict_name_es">Español</string>
+  <string name="dict_name_et">Eesti</string>
+  <string name="dict_name_eu">Euskara</string>
+  <string name="dict_name_fa_ir">فارسی (ایران)</string>
+  <string name="dict_name_fi">Suomi</string>
+  <string name="dict_name_fr">Français</string>
+  <string name="dict_name_ga">Gaeilge</string>
+  <string name="dict_name_gl">Galego</string>
+  <string name="dict_name_gom">कोंकणी (देवनागरी, भारत)</string>
+  <string name="dict_name_gu">ગુજરાતી</string>
+  <string name="dict_name_he">עברית</string>
+  <string name="dict_name_hi">हिन्दी</string>
+  <string name="dict_name_hi_zz">हिन्दी (भारत)</string>
+  <string name="dict_name_hr">Hrvatski</string>
+  <string name="dict_name_hu">Magyar</string>
+  <string name="dict_name_hy">Հայերեն</string>
+  <string name="dict_name_hy_east">Հայերեն</string>
+  <string name="dict_name_id">Indonesia</string>
+  <string name="dict_name_is">Íslenska</string>
+  <string name="dict_name_it">Italiano</string>
+  <string name="dict_name_iw">עברית (ישראל)</string>
+  <string name="dict_name_ja">日本語</string>
+  <string name="dict_name_ka">ქართული</string>
+  <string name="dict_name_kab">Taqbaylit</string>
+  <string name="dict_name_kk">Қазақ Тілі</string>
+  <string name="dict_name_km">ខ្មែរ</string>
+  <string name="dict_name_kn">ಕನ್ನಡ</string>
+  <string name="dict_name_ko">한국어</string>
+  <string name="dict_name_ks">کٲشُر</string>
+  <string name="dict_name_la">Latina</string>
+  <string name="dict_name_lb">Lëtzebuergesch</string>
+  <string name="dict_name_lt">Lietuvių</string>
+  <string name="dict_name_lv">Latviešu</string>
+  <string name="dict_name_mai">मैथिली</string>
+  <string name="dict_name_mg">Malagasy</string>
+  <string name="dict_name_mk">Македонски</string>
+  <string name="dict_name_ml">മലയാളം</string>
+  <string name="dict_name_mr">मराठी</string>
+  <string name="dict_name_nb">Norsk Bokmål</string>
+  <string name="dict_name_ne">नेपाली</string>
+  <string name="dict_name_nl">Nederlands</string>
+  <string name="dict_name_nn">Norsk Nynorsk</string>
+  <string name="dict_name_or">ଓଡ଼ିଆ</string>
+  <string name="dict_name_pa">ਪੰਜਾਬੀ</string>
+  <string name="dict_name_pl">Polski</string>
+  <string name="dict_name_pt_br">Português (Brasil)</string>
+  <string name="dict_name_pt_pt">Português (Portugal)</string>
+  <string name="dict_name_ro">Română</string>
+  <string name="dict_name_ru">Русский</string>
+  <string name="dict_name_sa">संस्कृत भाषा</string>
+  <string name="dict_name_sat">ᱥᱟᱱᱛᱟᱲᱤ</string>
+  <string name="dict_name_sc">Sardu</string>
+  <string name="dict_name_sd">سنڌي</string>
+  <string name="dict_name_sk">Slovenčina</string>
+  <string name="dict_name_sl">Slovenščina</string>
+  <string name="dict_name_sr">Српски</string>
+  <string name="dict_name_sr_zz">Српски (Ћирилица, Србија)</string>
+  <string name="dict_name_sv">Svenska</string>
+  <string name="dict_name_ta">தமிழ்</string>
+  <string name="dict_name_te">తెలుగు</string>
+  <string name="dict_name_th">ไทย</string>
+  <string name="dict_name_tl">Filipino (Pilipinas)</string>
+  <string name="dict_name_tok">Toki Pona</string>
+  <string name="dict_name_tr">Türkçe</string>
+  <string name="dict_name_uk">Українська</string>
+  <string name="dict_name_ur">اردو</string>
+  <string name="dict_name_vi">Tiếng Việt</string>
+  <string name="dict_name_zgh">ⵜⴰⵎⴰⵣⵉⵖⵜ</string>
+  <string name="dict_name_zgh_zz">ⵜⴰⵎⴰⵣⵉⵖⵜ (ⵍⵎⵖⵔⵉⴱ)</string>
+  <string name="dict_name_zh">中文</string>
+  <string-array name="dictionaries_locale">
+    <item>af</item>
+    <item>ar</item>
+    <item>as</item>
+    <item>az</item>
+    <item>be</item>
+    <item>bg</item>
+    <item>bn</item>
+    <item>bs</item>
+    <item>ca</item>
+    <item>ceb</item>
+    <item>cs</item>
+    <item>da</item>
+    <item>de</item>
+    <item>de_AT</item>
+    <item>de_CH</item>
+    <item>el</item>
+    <item>en_AU</item>
+    <item>en_CA</item>
+    <item>en_GB</item>
+    <item>en_US</item>
+    <item>eo</item>
+    <item>es</item>
+    <item>et</item>
+    <item>eu</item>
+    <item>fa_IR</item>
+    <item>fi</item>
+    <item>fr</item>
+    <item>ga</item>
+    <item>gl</item>
+    <item>gom</item>
+    <item>gu</item>
+    <item>he</item>
+    <item>hi</item>
+    <item>hi_ZZ</item>
+    <item>hr</item>
+    <item>hu</item>
+    <item>hy</item>
+    <item>hy_east</item>
+    <item>id</item>
+    <item>is</item>
+    <item>it</item>
+    <item>iw</item>
+    <item>ja</item>
+    <item>ka</item>
+    <item>kab</item>
+    <item>kk</item>
+    <item>km</item>
+    <item>kn</item>
+    <item>ko</item>
+    <item>ks</item>
+    <item>la</item>
+    <item>lb</item>
+    <item>lt</item>
+    <item>lv</item>
+    <item>mai</item>
+    <item>mg</item>
+    <item>mk</item>
+    <item>ml</item>
+    <item>mr</item>
+    <item>nb</item>
+    <item>ne</item>
+    <item>nl</item>
+    <item>nn</item>
+    <item>or</item>
+    <item>pa</item>
+    <item>pl</item>
+    <item>pt_BR</item>
+    <item>pt_PT</item>
+    <item>ro</item>
+    <item>ru</item>
+    <item>sa</item>
+    <item>sat</item>
+    <item>sc</item>
+    <item>sd</item>
+    <item>sk</item>
+    <item>sl</item>
+    <item>sr</item>
+    <item>sr_ZZ</item>
+    <item>sv</item>
+    <item>ta</item>
+    <item>te</item>
+    <item>th</item>
+    <item>tl</item>
+    <item>tok</item>
+    <item>tr</item>
+    <item>uk</item>
+    <item>ur</item>
+    <item>vi</item>
+    <item>zgh</item>
+    <item>zgh_ZZ</item>
+    <item>zh</item>
+  </string-array>
+  <string-array name="dictionaries_name">
+    <item>@string/dict_name_af</item>
+    <item>@string/dict_name_ar</item>
+    <item>@string/dict_name_as</item>
+    <item>@string/dict_name_az</item>
+    <item>@string/dict_name_be</item>
+    <item>@string/dict_name_bg</item>
+    <item>@string/dict_name_bn</item>
+    <item>@string/dict_name_bs</item>
+    <item>@string/dict_name_ca</item>
+    <item>@string/dict_name_ceb</item>
+    <item>@string/dict_name_cs</item>
+    <item>@string/dict_name_da</item>
+    <item>@string/dict_name_de</item>
+    <item>@string/dict_name_de_at</item>
+    <item>@string/dict_name_de_ch</item>
+    <item>@string/dict_name_el</item>
+    <item>@string/dict_name_en_au</item>
+    <item>@string/dict_name_en_ca</item>
+    <item>@string/dict_name_en_gb</item>
+    <item>@string/dict_name_en_us</item>
+    <item>@string/dict_name_eo</item>
+    <item>@string/dict_name_es</item>
+    <item>@string/dict_name_et</item>
+    <item>@string/dict_name_eu</item>
+    <item>@string/dict_name_fa_ir</item>
+    <item>@string/dict_name_fi</item>
+    <item>@string/dict_name_fr</item>
+    <item>@string/dict_name_ga</item>
+    <item>@string/dict_name_gl</item>
+    <item>@string/dict_name_gom</item>
+    <item>@string/dict_name_gu</item>
+    <item>@string/dict_name_he</item>
+    <item>@string/dict_name_hi</item>
+    <item>@string/dict_name_hi_zz</item>
+    <item>@string/dict_name_hr</item>
+    <item>@string/dict_name_hu</item>
+    <item>@string/dict_name_hy</item>
+    <item>@string/dict_name_hy_east</item>
+    <item>@string/dict_name_id</item>
+    <item>@string/dict_name_is</item>
+    <item>@string/dict_name_it</item>
+    <item>@string/dict_name_iw</item>
+    <item>@string/dict_name_ja</item>
+    <item>@string/dict_name_ka</item>
+    <item>@string/dict_name_kab</item>
+    <item>@string/dict_name_kk</item>
+    <item>@string/dict_name_km</item>
+    <item>@string/dict_name_kn</item>
+    <item>@string/dict_name_ko</item>
+    <item>@string/dict_name_ks</item>
+    <item>@string/dict_name_la</item>
+    <item>@string/dict_name_lb</item>
+    <item>@string/dict_name_lt</item>
+    <item>@string/dict_name_lv</item>
+    <item>@string/dict_name_mai</item>
+    <item>@string/dict_name_mg</item>
+    <item>@string/dict_name_mk</item>
+    <item>@string/dict_name_ml</item>
+    <item>@string/dict_name_mr</item>
+    <item>@string/dict_name_nb</item>
+    <item>@string/dict_name_ne</item>
+    <item>@string/dict_name_nl</item>
+    <item>@string/dict_name_nn</item>
+    <item>@string/dict_name_or</item>
+    <item>@string/dict_name_pa</item>
+    <item>@string/dict_name_pl</item>
+    <item>@string/dict_name_pt_br</item>
+    <item>@string/dict_name_pt_pt</item>
+    <item>@string/dict_name_ro</item>
+    <item>@string/dict_name_ru</item>
+    <item>@string/dict_name_sa</item>
+    <item>@string/dict_name_sat</item>
+    <item>@string/dict_name_sc</item>
+    <item>@string/dict_name_sd</item>
+    <item>@string/dict_name_sk</item>
+    <item>@string/dict_name_sl</item>
+    <item>@string/dict_name_sr</item>
+    <item>@string/dict_name_sr_zz</item>
+    <item>@string/dict_name_sv</item>
+    <item>@string/dict_name_ta</item>
+    <item>@string/dict_name_te</item>
+    <item>@string/dict_name_th</item>
+    <item>@string/dict_name_tl</item>
+    <item>@string/dict_name_tok</item>
+    <item>@string/dict_name_tr</item>
+    <item>@string/dict_name_uk</item>
+    <item>@string/dict_name_ur</item>
+    <item>@string/dict_name_vi</item>
+    <item>@string/dict_name_zgh</item>
+    <item>@string/dict_name_zgh_zz</item>
+    <item>@string/dict_name_zh</item>
+  </string-array>
+  <integer-array name="dictionaries_size">
+    <item>1459395</item>
+    <item>1065727</item>
+    <item>305248</item>
+    <item>361931</item>
+    <item>11487817</item>
+    <item>2239764</item>
+    <item>556196</item>
+    <item>904528</item>
+    <item>397095</item>
+    <item>210101</item>
+    <item>1535079</item>
+    <item>1508529</item>
+    <item>2222601</item>
+    <item>14360208</item>
+    <item>2231642</item>
+    <item>2212678</item>
+    <item>953539</item>
+    <item>1070265</item>
+    <item>953253</item>
+    <item>962870</item>
+    <item>158413</item>
+    <item>1031292</item>
+    <item>5020064</item>
+    <item>415547</item>
+    <item>8399442</item>
+    <item>1607469</item>
+    <item>1580052</item>
+    <item>8236475</item>
+    <item>349036</item>
+    <item>519886</item>
+    <item>478303</item>
+    <item>335479</item>
+    <item>466048</item>
+    <item>1169751</item>
+    <item>1274754</item>
+    <item>704518</item>
+    <item>887663</item>
+    <item>438029</item>
+    <item>690443</item>
+    <item>2279624</item>
+    <item>861937</item>
+    <item>332906</item>
+    <item>1049325</item>
+    <item>478446</item>
+    <item>728093</item>
+    <item>6748356</item>
+    <item>263410</item>
+    <item>279787</item>
+    <item>221823</item>
+    <item>40217</item>
+    <item>554917</item>
+    <item>699647</item>
+    <item>1479011</item>
+    <item>1958833</item>
+    <item>454756</item>
+    <item>51874</item>
+    <item>2461690</item>
+    <item>349895</item>
+    <item>491496</item>
+    <item>1057667</item>
+    <item>2244500</item>
+    <item>1055918</item>
+    <item>9473630</item>
+    <item>357497</item>
+    <item>105128</item>
+    <item>1407128</item>
+    <item>1085492</item>
+    <item>1801818</item>
+    <item>2015008</item>
+    <item>2214915</item>
+    <item>608002</item>
+    <item>316860</item>
+    <item>358966</item>
+    <item>531682</item>
+    <item>7097862</item>
+    <item>358218</item>
+    <item>1736842</item>
+    <item>1239986</item>
+    <item>1553292</item>
+    <item>290728</item>
+    <item>298644</item>
+    <item>641028</item>
+    <item>68377</item>
+    <item>1592</item>
+    <item>1468143</item>
+    <item>7457735</item>
+    <item>570834</item>
+    <item>116349</item>
+    <item>629040</item>
+    <item>1134704</item>
+    <item>3046233</item>
+  </integer-array>
+  <string-array name="dictionaries_sha256">
+    <item>hE2vM2+cSZjq74p9BoPevTLN3bPmaU5g70elveG7zn4=</item>
+    <item>aeGs/rSNhPjnMPHsDu7nAfaEVhVlKTEmJGxv8LYsZKk=</item>
+    <item>3YSkkwShAIYrvNyZ1URYYUVyuMw6ZzK0H6RXTryPK70=</item>
+    <item>CXrQ3P6Y19itERwTR2DyfS8hU6/FNGinOxPk0KYQg+s=</item>
+    <item>nhX3DJvITZdwpYJ/KPzCzEsH5hB+0QxnUJyb6FJ6QFk=</item>
+    <item>MR8503CvkaD3afPvAz0u09sPu/OZ8hTxSRzjuMot5/w=</item>
+    <item>Vo+S4AELaOHAuRSWNMhC7AD6yAUrxtJf6Uzu/QWR+js=</item>
+    <item>IcT381JpdLx8WwZs7RHHxrOEKlEyiETE27E8BpvIUv8=</item>
+    <item>PA7NEReaodIRRJD6jCNbvyAGCWe/IiaiOxju+ZWdEec=</item>
+    <item>xRX60LU3QBMxVbhctityQja/tAiHbF9guTYiLHa1NT8=</item>
+    <item>89o314J/U0SSfEh/dKLGffuax/9ZPePhGe7JFxaa2oQ=</item>
+    <item>yrfOqYj7DtxOiz9kFBLWa6uCcDQmKpX2+xeUwu3NByc=</item>
+    <item>ATeZ4HbF0siQYAJdTriCQ8Kdm9jptxUf2oF/dsMZfxs=</item>
+    <item>zS3W31urTYdfEPjdtHG07HZWPWmtZU6ZmC+Ow4ylb+U=</item>
+    <item>KwvKuL/EfBG2tY1LRL4UAkhUPk4lo/1K5FW3s7qQKfk=</item>
+    <item>BHle1SY1JJlbr9Xi7DyCEG7HVAKokZsoO+Qfyf+p55M=</item>
+    <item>vYHTPvniTc9CTroJqdYs697f05onx8jrI4f3iH7jbXw=</item>
+    <item>/2zGWc+f8AQIBvRjLzjogoOUcA2RCI9GFNHG6cl6RfQ=</item>
+    <item>7dLWouU8llOgu5hsuxe+81prNlWfYmYboe6G2hA9Seo=</item>
+    <item>HkEWTCnKT6HjONfw/quL9k06aJPErlEM7eGxSukCW20=</item>
+    <item>5B8ZpuJ8luD/1Ye6l6bWU88jgIUrGesz5mg2p0qg3wg=</item>
+    <item>iR/Bu4jb0Q6pj+wfTTV6IJduROcJWbGKKEVRKU6HW1A=</item>
+    <item>e6g0NTy7f8IuO8rOLg/sW5GmKBvccydxdE7djQ+rid0=</item>
+    <item>vwaJ5n7Vioyl5YYZtAYCiodoFfoS4hMlFs6JDKbt84I=</item>
+    <item>PK3We2HHZPdjy4KtNRWACU91k3+TkHnohPced9syJtM=</item>
+    <item>WfYHaW+Qe+nxOdraG+Xmk/7VpiwSqUtVJDfejwzbMX4=</item>
+    <item>AL2CjVn5a+x3iaCgSWz8OrWvbNDpE4Lq7EgyVXBcaXI=</item>
+    <item>22pY7FMTwVLXlj6PSTOQdh3ZMbbjHKtuKzyvMvzEZPU=</item>
+    <item>iluUkSCld7hVjM590O1HZcYprFKl0oAUPQwVSAXfu+s=</item>
+    <item>CrpWGu+OudzB090md9Cr+IPO+MoFSyBWUN2L4qEZqqY=</item>
+    <item>GqRIOPf1vfp0pFJixsg1yM5jh6kTg2ABzFdw3xAXhMk=</item>
+    <item>bjmch+VZKtLXDPwQsljE34dkanJ+KYbDDvrQTrSIl68=</item>
+    <item>nDdZIjLr2UgzmwL8vNil+w3C0baFeFKmzxk8PPqKp+A=</item>
+    <item>FpSeu/pMpjJPjp+Pxp6oxsnsuwkLioTI5+Y1Kfoo2ls=</item>
+    <item>jwBmDaDy7VOTqYvTBLuFeyeraFaFiqZvGaHPkFy44tU=</item>
+    <item>uD2l85iuAhjBhSMIKmlyaInvCijP9kH8eV3K9joIlZI=</item>
+    <item>binie0BCJai9j1nbLQPVF3ZMbBOFLGx38bxQ4nbsb7c=</item>
+    <item>Lo2JpVfJUW9y8lERgBQJdoXOcwpjpcn59K6s8I3uDVA=</item>
+    <item>YhjXnmfg5W/ghXZcI/J/3gJCI4OH9DbsBmhR0lwr6w4=</item>
+    <item>ioI5ijwjGka+1tW8Il+QzVcyJh731vumCM/aQQtE/M0=</item>
+    <item>FYTHWpp7gafPAHcwBTzi7BvIkpzYBHhVg2Be5LiVVsM=</item>
+    <item>jLWXn6zjkgzycbsPRkSJGXQexOsMODbUaa7GIKxIyYc=</item>
+    <item>UV6EvaQD4KsA1iBCeWj7M9YiIFCc8busZsW1sgBa7sM=</item>
+    <item>btfWrmNzIIOiEysitFaxF9a2zL8wjzRO5sggno66Vto=</item>
+    <item>Y75ws1VuaUIlRbM0Tm4qW6FRhAuVXvPK8/hDDt5P2Dk=</item>
+    <item>5hTpjU2tNWlxLdccouWO01vdFFvjg2QhK9xdH/yas0U=</item>
+    <item>PfdC6hbCJ+5AMT1Lg0lW3sC2R7y5GG5Zwkt4MVak88g=</item>
+    <item>3+//lFiHZv89jWhIWI5SStQ5QgI+8a0OtyJYMI95ftU=</item>
+    <item>zWAhMd7j2gwRAwOqzaqYQVVpZqWg/hDSL2gSk9YoaQE=</item>
+    <item>zNQ1h2BBM2cCRNxI8BOwFbE3c3FHWQoku/3jpOxA208=</item>
+    <item>nIfrvy2bky0fs8tj7pRbKifsuXrJc2dVk/AnBRUsk/s=</item>
+    <item>ZYwVTLw+PrhqiNaosEeEwvpfpy145vulwPy7SGdQFJ0=</item>
+    <item>8DoqTgRuu+C1jG634xQFdUeoFd93oc/eUQ8dwoQ9VNM=</item>
+    <item>gA5qly5mJ9HPpvIuJ0CGM3WAHnvpLnkGkSHpntnZuh8=</item>
+    <item>DH5OlM0lmL53d7EgZvL48FRCZuZGLVDZdIMbWaRAjmw=</item>
+    <item>yErrWPuRoEFvPaUlMHrUfhX13mlAvd5i5yiP1svta0A=</item>
+    <item>fxAAYTeCAmvyB/n1CXNW9eqnnQHfXPzYXB2jNOF07lg=</item>
+    <item>B/Op/2+tMnQAU0Bmrk2/NcALBiGQbb/EyfXWJ4OtLcM=</item>
+    <item>e1aYUvdAYELev/lGyCxm/0ZodWPZPgavD5LFUpzn414=</item>
+    <item>0iXxqc5QaypC+eZiKIrSxrhwd9+DutsxupXA2ak04oo=</item>
+    <item>CuOKk2KhIsT0Bv+LJ2KCAlEFrRg7Ee+LTFVBwaO2hiI=</item>
+    <item>WM3pgzOYP29kHv78yMqM0LU3e0vuvgdjBKbubkOJI2g=</item>
+    <item>K/szsiSXEG+jok13V1Pn9jSMARP4hduf9RVm3UMKmsk=</item>
+    <item>KZFhKqyEwSFIkByhA8SFurl3q2NeWQ4N9+KlhQ6MHhA=</item>
+    <item>Kh7s3cdLzFVFzDnq+TZDNTZeCv+e+2d9cNx5q/ol6CY=</item>
+    <item>VG2EPMxAdsL/VKoaQsEtaHAxrvG+s/J9pLjl/zddUsw=</item>
+    <item>JA3rGk24BCZWyJRBA5ao9DuzAYT1OpvnVIyozRlLDGo=</item>
+    <item>Pen6jbq6pceP3GaULLURZG2shvPhBfSzX/cVrJs2R1I=</item>
+    <item>LWieIdx0mBywf+Rhr10dpf0src2cGUzNIfBC1Ao+K9g=</item>
+    <item>SYuNQKtC64RvVli8DRHqxuY110zsikIaFS9U/uI17F4=</item>
+    <item>Dtrr/eWgw12iuYZ7lzH0MWJJQnLt7Ub8QNohUgZcRkQ=</item>
+    <item>oFuFlblJVsKgD/KZ+X6XRyaoMFldtwj6EjIGZGXZad4=</item>
+    <item>OiC2GjtvgWD/4HANXY6Fl3COxc0nOykvQ/CcuCZ7tLQ=</item>
+    <item>5QjbIhxg/HWR/NXuG2h98Lfd8WKjr/4Y36alWuKxcJI=</item>
+    <item>yA2LtR5u6N5XXjSwqNbdfZdvuXFvqJHhP7muWwBq/XE=</item>
+    <item>eOe74E6dXQ5T20VD5xKTm5HqqpJbF8M45FJoGgXdPk0=</item>
+    <item>pdpiW9S8eFMaE8RnBMOesAJCPXIB0p/wUkw9OlGv9TA=</item>
+    <item>C1CSROA0K1ai+u6jMJJA6/qvgw875QYkSNncoOBI8Iw=</item>
+    <item>GRrHmINmb+GjJIvv1g3qPg61mU4yIXTCBvK/zwpOk/E=</item>
+    <item>GVqve6y5nkbK/z5CreoAan82o2B9JaeNE3jQ8xoBDu4=</item>
+    <item>+neNPCFZFXN9bbayxocV3RBSipURQh19HKu3H/pk2gI=</item>
+    <item>SBiiPcLgvMIyC63GOGWfx0H+Mg/tkJzFO14YoJAgzuA=</item>
+    <item>3SaBpF00Y9YLpPw541RSCBQ7sRtme22FlF//K+uJUB8=</item>
+    <item>b7K6rB25OCrbO8qz8lzzSopodPN6Q91PV+TbkYbZVFQ=</item>
+    <item>nMpKis8Qcp7KFM1hfE/G73SFlM5MNLfKsBe5CsQiOGw=</item>
+    <item>YMsjhWV/v7Lptx8soTEEHWAioIotXhBXUk72HnhOGYU=</item>
+    <item>xVImlSIGY35tNFtS9LYQgVXrSjfIVftTi3uWImZMjrU=</item>
+    <item>b38J0EQrz8MYTP0oniabOpfRPcZd7RjurE/QDw4xRZI=</item>
+    <item>mbLRxZ34MTQlRp0YLYACP/2liP85sVRuvczJc+B4Rjs=</item>
+    <item>kxN+ITN4WG1hhSTcnyQCO6RfZ7tx4uL0Zf6VlqCMHEY=</item>
+    <item>sCa06jqui48jh3W+uM3tm9oCx4c/6K+3v/NSsMWiLqQ=</item>
+  </string-array>
+</resources>
